@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodyhewasudy.github.io/sitemap.xml
